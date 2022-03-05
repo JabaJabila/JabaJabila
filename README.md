@@ -3,7 +3,8 @@
 ____________________________________________
 
 _Literally, nothing interesting to see here_
-Or here you can find some of my work for ITMO University 🏫 or my attempts to make something for myself 👨🏻‍💻
+
+Here you can find some of my work for ITMO University 🏫 or my attempts to make something for myself 👨🏻‍💻
 
 ### Some stats:
 

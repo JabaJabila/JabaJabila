@@ -8,6 +8,6 @@ Here you can find some of my work for ITMO University 🏫 or my attempts to mak
 
 ### Some stats:
 
-![achievments](https://github-profile-trophy.vercel.app/?username=JabaJabila&rows=1&hide=stars&column=7)
+![achievments](https://github-profile-trophy.vercel.app/?username=JabaJabila&rows=1&hide=stars&column=8)
 
 ![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JabaJabila&langs_count=19&exclude_repo=ITMO_Cpp_Labs_2sem)

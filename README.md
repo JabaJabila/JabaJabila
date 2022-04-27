@@ -1,8 +1,8 @@
 # **WASSUP** 👋
-🐸 ![visited](https://komarev.com/ghpvc/?username=JabaJabila&label=MY+DUDES:&style=flat&color=green) 🐸
+🐸 ![visited](https://komarev.com/ghpvc/?username=JabaJabila&label=VISITED+ME:&style=flat&color=green) 🐸
 ____________________________________________
 
-_Literally, nothing interesting to see here_
+_Maybe, you'll find something interesting here_
 
 Here you can find some of my work for ITMO University 🏫 or my attempts to make something for myself 👨🏻‍💻
 
